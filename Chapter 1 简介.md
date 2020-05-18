@@ -18,7 +18,7 @@
 **这些想法基本上都已经成为现实，Python已经成为一门非常流行的编程语言。**
 
 ## Python的设计哲学
-![](/uploads/python/images/m_9523c53658b9a950945f4cfdbcc8e2b5_r.png)
+![](https://raw.githubusercontent.com/erickgen/DevelopWithPython/master/1-1.png)
 - **用一种方法，最好只用一个方法做一件事**
 - **明确且没有歧义的语法，没有花哨的语法**
 - 拥有脚语言和解释型语言的易用性
@@ -27,13 +27,13 @@
 
 ## 为什么使用Python
 **人生苦短，我用Python！**
-![](/uploads/python/images/m_d3b4ef0c09f2ffbb5e02988c3a6e7699_r.png)
+![](https://raw.githubusercontent.com/erickgen/DevelopWithPython/master/1-2.png)
 --
-![](/uploads/python/images/m_1b670dc849a297cd5809980210cc5969_r.png)
+![](https://raw.githubusercontent.com/erickgen/DevelopWithPython/master/1-3.png)
 
 
 ## Python的诞生
-![](/uploads/python/images/m_60a6ac994115ab664012cb74b2494bf8_r.png)
+![](https://raw.githubusercontent.com/erickgen/DevelopWithPython/master/1-4.png)
 
 - 1989年的圣诞节期间，```Gudio van Rossum```为了在阿姆斯特丹打发时间，决心开发一个新的解释程序,作为对ABC语言的一种继承。
 - ABC是由Gudio参加设计的一种教学语言，就Gudio本人看来，ABC这种语言非常优美和强大，是专门为非专业程序员设计的。但是ABC语言并没有成功，究其原因，Gudio认为是非开发造成的。Gudio决心在Python中避免这一错误，并获取了非常好的效果。
