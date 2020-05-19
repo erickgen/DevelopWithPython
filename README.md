@@ -6,3 +6,9 @@
 
 ## 目录
 - [Chapter 1 简介](Chapter%201%20简介.md)
+- [Chapter 2 第一个Python程序](Chapter%202%20第一个Python程序.md)
+- [Chapter 3 基本语法](Chapter%203%20基本语法.md)
+- [Chapter 4 基本语法2](Chapter%204%20基本语法2.md)
+- [Chapter 5 流程控制](Chapter%205%20流程控制.md)
+- [Chapter 6 集合](Chapter%206%20集合.md)
+- [Chapter 7 元组.md](Chapter%207%20元组.md)
