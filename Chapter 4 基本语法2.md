@@ -8,17 +8,17 @@ python中有哪些基本的数据类型呢？数字int、浮点数float、字符
 结果为布尔值的运算我们称之为逻辑运算；
 
 ### 算术运算符
-![](/uploads/python/images/m_7ccd47f5b1b551e159419684cd23707c_r.png)
+![](3-1.png)
 
 ### 赋值运算符
-![](/uploads/python/images/m_f3a45393134dd754484b91a114f8575b_r.png)
+![](3-2.png)
 
 ### 逻辑运算符
-![](/uploads/python/images/m_d7eefcd3c38febf352b7032c6c1da9c6_r.png)
+![](3-3.png)
 
-![](/uploads/python/images/m_ce005f32be425aeba7d1fbd5e8d570e0_r.png)
+![](3-4.png)
 
-![](/uploads/python/images/m_ac98eadd3f36ba56d44b1afa735445bd_r.png)
+![](3-5.png)
 
 ## 基本数据类型
 1.1 整数
